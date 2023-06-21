@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: test
 eureka:
   client:
     service-url:
